@@ -305,41 +305,6 @@ HOTEL_NAME = "New Hotel"
 HOTEL_URL = "https://www.expedia.co.jp/h789.New-Hotel"
 ```
 
-## ⚠️ Legal and Ethical Considerations
-
-- **Respect robots.txt** when possible
-- **Rate limiting** - Don't overwhelm servers
-- **Terms of Service** - Ensure compliance with website ToS
-- **Data Usage** - Use scraped data responsibly
-- **Local Laws** - Comply with applicable regulations
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Create a Pull Request
-
-## 📄 License
-
-This project is for educational and research purposes. Please ensure compliance with applicable laws and website terms of service when using this tool.
-
-## 🔗 Dependencies
-
-- **crawl4ai**: Advanced web crawling framework
-- **pydantic**: Data validation and parsing
-- **python-dotenv**: Environment variable management
-- **google-generativeai**: LLM integration for data extraction
-
-## 📞 Support
-
-For issues, questions, or contributions:
-
-- Create an issue on GitHub
-- Check existing documentation in `ANTI_BOT_MEASURES.md`
-- Review the troubleshooting section above
-
 ---
 
 **Happy Scraping!** 🕷️🤖
