@@ -1,0 +1,4 @@
+crawl4ai
+python-dotenv
+pydantic
+google-generativeai>=0.4.0

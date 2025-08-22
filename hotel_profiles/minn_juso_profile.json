@@ -1,0 +1,36 @@
+{
+  "hotel_name": "Minn Juso",
+  "hotel_url": "https://www.expedia.co.jp/en/Osaka-Hotels-Minn-Juso.h18638909.Hotel-Information",
+  "room_types": [
+    "{'index': 0, 'content': ['Hollywood Twin'], 'error': False}",
+    "{'index': 0, 'content': ['Moderate Double'], 'error': False}",
+    "{'index': 1, 'content': ['Hollywood Twin'], 'error': False}",
+    "{'index': 1, 'content': ['Moderate Family Loft'], 'error': False}",
+    "{'index': 2, 'content': ['Moderate Double'], 'error': False}",
+    "{'index': 2, 'content': ['Moderation Double Room'], 'error': False}",
+    "{'index': 3, 'content': ['Superior Family'], 'error': False}",
+    "{'index': 3, 'content': ['Twin Room'], 'error': False}",
+    "{'index': 4, 'content': ['Suite'], 'error': False}",
+    "{'index': 5, 'content': ['Moderate Twin'], 'error': False}",
+    "{'index': 5, 'content': ['Superior Family'], 'error': False}",
+    "{'index': 6, 'content': ['Moderate Family Loft'], 'error': False}",
+    "{'index': 6, 'content': ['Supeior Family Loft (B)'], 'error': False}",
+    "{'index': 7, 'content': ['Moderate Twin'], 'error': False}",
+    "{'index': 7, 'content': ['Superior Family Loft (A)'], 'error': False}",
+    "{'index': 8, 'content': ['Supeior Family Loft (B)'], 'error': False}",
+    "{'index': 9, 'content': ['Superior Family Loft (A)'], 'error': False}"
+  ],
+  "last_updated": "2025-08-22",
+  "metadata": {
+    "discovery_dates_checked": 5,
+    "sample_dates": [
+      "2025-08-26",
+      "2025-09-02",
+      "2025-09-09",
+      "2025-09-16",
+      "2025-09-23"
+    ],
+    "sample_interval_days": 7,
+    "total_rooms_discovered": 17
+  }
+}

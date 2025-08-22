@@ -1,0 +1,78 @@
+{
+    "hotel_name": "Minn Juso",
+    "daily_rates": [
+        {
+            "date": "2025-08-26",
+            "listings": [
+                {
+                    "name": "Hollywood Twin",
+                    "price": "¥13,211"
+                },
+                {
+                    "name": "Moderate Double",
+                    "price": "¥13,216"
+                },
+                {
+                    "name": "Superior Family",
+                    "price": "¥14,133"
+                },
+                {
+                    "name": "Suite",
+                    "price": "Sold Out"
+                },
+                {
+                    "name": "Moderate Twin",
+                    "price": "Sold Out"
+                },
+                {
+                    "name": "Supeior Family Loft (B)",
+                    "price": "Sold Out"
+                },
+                {
+                    "name": "Superior Family Loft (A)",
+                    "price": "Sold Out"
+                },
+                {
+                    "name": "Hollywood Twin",
+                    "price": "¥13,211"
+                },
+                {
+                    "name": "Moderate Family Loft",
+                    "price": "¥13,211"
+                },
+                {
+                    "name": "Moderate Double",
+                    "price": "¥13,216"
+                },
+                {
+                    "name": "Superior Family",
+                    "price": "¥14,133"
+                },
+                {
+                    "name": "Moderate Family Loft",
+                    "price": "¥13,211"
+                },
+                {
+                    "name": "Supeior Family Loft (B)",
+                    "price": "Sold Out"
+                },
+                {
+                    "name": "Moderate Twin",
+                    "price": "Sold Out"
+                },
+                {
+                    "name": "Superior Family Loft (A)",
+                    "price": "Sold Out"
+                },
+                {
+                    "name": "Supeior Family Loft (B)",
+                    "price": "Sold Out"
+                },
+                {
+                    "name": "Superior Family Loft (A)",
+                    "price": "Sold Out"
+                }
+            ]
+        }
+    ]
+}
